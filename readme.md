@@ -22,3 +22,17 @@ https://pip.pypa.io/en/stable/installation/
 
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
+<br><br>
+#### Die ausgelieferte Software ist unter folgendem Link erreichbar: 
+https://lehnerjanlb-324.azurewebsites.net/ 
+
+Um das Passwort auf Azure zu übertragen habe ich zuerts eine neue Web-App erstellt. <br> 
+Als diese fertig war, klickte ich darauf.
+
+In der Web-App klickte ich unter `Einstellungen` auf `Konfiguration`. <br>
+Es öffnet sich ein neues Fenster, in dem ich eine neue Anwendungseinstellung, durch klicken auf `Neue Anwendungseinstellung`, hinzufügen konnte.
+<br><br>
+Als Name dieser Einstellung wählte ich `PASSWORD` und der Wert ist das Passwort. 
+<br><br>
+In folgender Abbildung sehen Sie das Fenster mit den Einstellungen:
+![Alt text](image.png)
