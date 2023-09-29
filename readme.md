@@ -36,3 +36,7 @@ Als Name dieser Einstellung wählte ich `PASSWORD` und der Wert ist das Passwort
 <br><br>
 In folgender Abbildung sehen Sie das Fenster mit den Einstellungen:
 ![Alt text](image.png)
+
+## Weitere Informationen
+#### Übernahmen von Python Code <br>
+Da ich nicht verstanden habe, wie man den Code für das gewünschte Feature anpassen muss, habe ich, mit Einverständnis von ihm, den Code von Jan Vontobel übernommen. Bei den übernommenen Änderungen handelt es sich um nicht bewertete Teile. 
