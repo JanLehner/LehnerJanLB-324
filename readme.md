@@ -5,9 +5,9 @@ Erklären Sie hier, wie man `pre-commit` installiert.
 
 ## Pre-commit installieren ##
 
-Um "pre-commit" zu installieren gibt es zwei mögliche Wege. 
+Um "pre-commit" zu installieren, gibt es zwei mögliche Wege. 
 
-#### ! Wichtig, um pre-commit installieren zu können benötigen Sie Pip. Unter folgender URL finden Sie ein Tutorial zur Installation: ####
+#### ! Wichtig, um pre-commit installieren zu können, benötigen Sie Pip. Unter folgender URL finden Sie ein Tutorial zur Installation: ####
 https://pip.pypa.io/en/stable/installation/ 
 
 #### Variante 1
@@ -26,11 +26,11 @@ Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übe
 #### Die ausgelieferte Software ist unter folgendem Link erreichbar: 
 https://lehnerjanlb-324.azurewebsites.net/ 
 
-Um das Passwort auf Azure zu übertragen habe ich zuerts eine neue Web-App erstellt. <br> 
+Um das Passwort auf Azure zu übertragen, habe ich zuerst eine neue Web-App erstellt. <br> 
 Als diese fertig war, klickte ich darauf.
 
 In der Web-App klickte ich unter `Einstellungen` auf `Konfiguration`. <br>
-Es öffnet sich ein neues Fenster, in dem ich eine neue Anwendungseinstellung, durch klicken auf `Neue Anwendungseinstellung`, hinzufügen konnte.
+Es öffnet sich ein neues Fenster, in dem ich eine neue Anwendungseinstellung, durch Klicken auf `Neue Anwendungseinstellung`, hinzufügen konnte.
 <br><br>
 Als Name dieser Einstellung wählte ich `PASSWORD` und der Wert ist das Passwort. 
 <br><br>
